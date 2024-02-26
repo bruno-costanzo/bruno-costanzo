@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Bruno Costanzo - Software Developer
 
 ## Contacto
