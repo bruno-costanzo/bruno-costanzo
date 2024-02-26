@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bruno-costanzo/bruno-costanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bruno Costanzo - Software Developer
 
-Here are some ideas to get you started:
+## Contacto
+- 📧 dev.bcostanzo@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Desarrollador de software autodidacta con más de tres años de experiencia en Ruby on Rails. Proactivo, curioso y constantemente buscando aprender nuevas tecnologías. Interesado en testing, patrones de diseño, y algoritmos y estructuras de datos.
+
+## Habilidades
+- Ruby y Ruby on Rails
+- PostgreSQL
+- Hotwire y Turbo
+- Desarrollo Dirigido por Pruebas (TDD)
