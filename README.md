@@ -1,5 +1,5 @@
 Hi 👋,
-I'm Bruno, an Argentinen self-taught software builder specialized in Ruby on Rails Web Development Framework.
+I'm Bruno, an Argentinean self-taught software builder specialized in Ruby on Rails Web Development.
 
 I live in Zürich 🇨🇭 and I work at [Renuo AG](https://www.renuo.ch/de/team/bruno-costanzo).
 
