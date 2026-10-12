@@ -11,7 +11,7 @@ Ruby on Rails developer at [Renuo](https://www.renuo.ch/de/team/bruno-costanzo) 
 
 **Open source**
 
-Contributions to [Rails](https://github.com/rails/rails/pulls?q=author%3Abruno-costanzo), [RubyLLM](https://github.com/crmne/ruby_llm/pulls?q=author%3Abruno-costanzo) and [CanCanCan](https://github.com/CanCanCommunity/cancancan/pulls?q=author%3Abruno-costanzo).
+Merged contributions to [CanCanCan](https://github.com/CanCanCommunity/cancancan/pulls?q=author%3Abruno-costanzo+is%3Amerged) and [ZapFast](https://github.com/crmne/zapfast/pulls?q=author%3Abruno-costanzo+is%3Amerged).
 
 **Contact**
 
