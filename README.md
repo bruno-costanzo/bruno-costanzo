@@ -1,18 +1,25 @@
-### Bruno Costanzo
+## Hi, I'm Bruno 👋
 
-Ruby on Rails developer at [Renuo](https://www.renuo.ch/de/team/bruno-costanzo) in Zürich. I build web applications, AI agents and developer tools, mostly in Ruby.
+Ruby on Rails developer at [Renuo](https://www.renuo.ch/de/team/bruno-costanzo), based in Zürich 🇨🇭.
+I build web applications, AI agents and developer tools, mostly in Ruby.
 
-**Projects**
+### What I'm building
 
-- [fundamentalista](https://github.com/bruno-costanzo/fundamentalista): fundamental analysis of listed companies in Ruby. Ratios, Piotroski, Altman and Beneish scores, DCF valuation.
-- [ruby_llm-ai_sdk](https://github.com/bruno-costanzo/ruby_llm-ai_sdk): stream RubyLLM chats to the AI SDK `useChat` hook, with tool calls and human approvals.
-- [minitest-impact](https://github.com/bruno-costanzo/minitest-impact): pick the Minitest tests a change is most likely to break.
-- [claude-center](https://github.com/bruno-costanzo/claude-center): a virtual call center for AI coding agents. When one gets stuck, your phone rings.
+| Project | What it does |
+| --- | --- |
+| 📈 [fundamentalista](https://github.com/bruno-costanzo/fundamentalista) | Fundamental analysis of listed companies: ratios, Piotroski, Altman and Beneish scores, DCF valuation. |
+| 💬 [ruby_llm-ai_sdk](https://github.com/bruno-costanzo/ruby_llm-ai_sdk) | Stream RubyLLM chats to the AI SDK `useChat` hook, with tool calls and human approvals. |
+| 🧪 [minitest-impact](https://github.com/bruno-costanzo/minitest-impact) | Pick the Minitest tests a change is most likely to break. |
+| 📞 [claude-center](https://github.com/bruno-costanzo/claude-center) | A call center for AI coding agents. When one gets stuck, your phone rings. |
 
-**Open source**
+### Stack
 
-Merged contributions to [CanCanCan](https://github.com/CanCanCommunity/cancancan/pulls?q=author%3Abruno-costanzo+is%3Amerged) and [ZapFast](https://github.com/crmne/zapfast/pulls?q=author%3Abruno-costanzo+is%3Amerged).
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Contact**
+### Contact
 
-[costanzo.blog](https://www.costanzo.blog) · [dev.bcostanzo@gmail.com](mailto:dev.bcostanzo@gmail.com)
+✍️ [costanzo.blog](https://www.costanzo.blog) · ✉️ [dev.bcostanzo@gmail.com](mailto:dev.bcostanzo@gmail.com)
